@@ -1,0 +1,3 @@
+Allow: /
+
+Sitemap: https://www.alinea-invest.com/sitemap.xml
